@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2';
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+.nav-item{
+    padding-left: 20px ;
+}
+
+.NewOne{
+    top: 55%;
+    left: 57%;
+    bottom: 40%;
+}
+
+.NewTwo{
+    top: 36%;
+    left: 0%;
+    bottom: 40%;
+    right: 55%;
+}
+
+.NewThree{
+    top: 35%;
+    left: 50%;
+    right: 0%;
+    bottom: 45%;
+}
+
+.NewFour{
+    top: 30%;
+    left: 2%;
+    right: 50%;
+    bottom: 35%;
+}
+
+.navm{
+    color: white;
+}
+
+.carousel-item{
+    width: 100%;
+    height: 90vh;
+}
+
+.carousel-item1{
+    width: 100%;
+    height: 50vh;
+}
+
+.container1{
+    margin-bottom: 48px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 64px;
+}
+
+.products{
+    height: 500px;
+    max-width: 100%;
+    transition: all 3s;
+}
+
+.products:hover{
+    transform: scale(0.9);
+}
+
+.pro{
+    transition: all 3s;
+}
+
+.pro:hover{
+    transform: scale(0.9);
+}
+
+.lastheading{
+    background-color: rgb(192,166,154);
+}
